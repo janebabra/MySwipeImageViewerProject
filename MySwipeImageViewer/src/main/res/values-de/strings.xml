@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meine Dia-Show</string>
+    <string name="action_settings">Einstellunen</string>
+    <string name="hello_world">Die südlichen Schärinseln an der schwedischen Westküste</string>
+    <string name="start_button">Start Dis-Show</string>
+
+</resources>
