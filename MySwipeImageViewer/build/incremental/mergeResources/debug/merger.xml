@@ -2,135 +2,135 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res" >
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res" >
             <file
                 name="grave_1"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/grave_1.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/grave_1.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/grave_2.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="view_grave"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/view_grave.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/view_grave.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="view_grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/view_grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-hdpi/view_grave_2.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="grave_1"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/grave_1.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/grave_1.jpg"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/grave_2.jpg"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="view_grave"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/view_grave.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/view_grave.jpg"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="view_grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/view_grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-mdpi/view_grave_2.jpg"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="grave_1"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/grave_1.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/grave_1.jpg"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/grave_2.jpg"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="view_grave"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/view_grave.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/view_grave.jpg"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="view_grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/view_grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xhdpi/view_grave_2.jpg"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="grave_1"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/grave_1.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/grave_1.jpg"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/grave_2.jpg"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="view_grave"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/view_grave.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/view_grave.jpg"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="view_grave_2"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/view_grave_2.JPG"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/drawable-xxhdpi/view_grave_2.jpg"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/layout/activity_main.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_slide"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/layout/activity_slide.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/layout/activity_slide.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/menu/main.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="slide"
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/menu/slide.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/menu/slide.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/colors.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="blue" >#52101164
                 </color>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/dimens.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="padding_medium" >8dp
                 </dimen>
@@ -144,7 +144,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/strings.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="start_button" >Start Slide Show
                 </string>
@@ -158,7 +158,7 @@
                 </string>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/styles.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -180,11 +180,11 @@
                 </style>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-de/strings.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-de/strings.xml"
                 qualifiers="de" >
-                <string name="action_settings" >Einstellunen
-                </string>
                 <string name="start_button" >Start Dis-Show
+                </string>
+                <string name="action_settings" >Einstellunen
                 </string>
                 <string name="hello_world" >Die südlichen Schärinseln an der schwedischen Westküste
                 </string>
@@ -192,31 +192,31 @@
                 </string>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw600dp/colors.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw600dp/colors.xml"
                 qualifiers="sw600dp" >
                 <color name="blue" >#3465a4
                 </color>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw720dp-land/colors.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw720dp-land/colors.xml"
                 qualifiers="sw720dp-land" >
                 <color name="blue" >#3465a4
                 </color>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw720dp-land/dimens.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v11/colors.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v11/colors.xml"
                 qualifiers="v11" >
                 <color name="blue" >#3465a4
                 </color>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v11/styles.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -227,13 +227,13 @@
                 </style>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/colors.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/colors.xml"
                 qualifiers="v14" >
                 <color name="blue" >#3465a4
                 </color>
             </file>
             <file
-                path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/styles.xml"
+                path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -244,10 +244,10 @@
                 </style>
             </file>
         </source>
-        <source path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/build/res/rs/debug" />
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/debug/res" />
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/debug/res" />
     </dataSet>
 
 </merger>

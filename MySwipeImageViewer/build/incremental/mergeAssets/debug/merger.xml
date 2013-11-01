@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/assets" />
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/debug/assets" />
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/debug/assets" />
     </dataSet>
 
 </merger>

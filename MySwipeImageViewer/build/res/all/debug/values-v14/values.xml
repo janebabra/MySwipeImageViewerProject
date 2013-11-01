@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/colors.xml -->
+    <!-- From: file:/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/colors.xml -->
+    <eat-comment />
+
     <color name="blue">#3465a4</color>
-    <!-- From: file:/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-v14/styles.xml -->
+    <eat-comment />
+
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
     </style>

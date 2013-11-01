@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/mrmac/AndroidStudioProjects/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/res/values-de/strings.xml -->
+    <eat-comment />
+
     <string name="action_settings">Einstellunen</string>
     <string name="app_name">Meine Dia-Show</string>
     <string name="hello_world">Die südlichen Schärinseln an der schwedischen Westküste</string>
