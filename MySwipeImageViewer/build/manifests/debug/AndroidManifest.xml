@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.myswipeimageviewer">
+<!-- From: file:/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.myswipeimageviewer">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="17"/>
 

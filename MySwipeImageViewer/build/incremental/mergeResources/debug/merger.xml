@@ -245,6 +245,7 @@
             </file>
         </source>
         <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/build/res/rs/debug" />
+        <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
         <source path="/Users/mrmac/Documents/github/MySwipeImageViewerProject/MySwipeImageViewer/src/debug/res" />
